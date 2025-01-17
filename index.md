@@ -10,3 +10,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Create GitHub Account
+- [x] Take Intro to GitHub course
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
