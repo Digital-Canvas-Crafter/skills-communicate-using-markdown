@@ -6,3 +6,7 @@
 ###### This is a Markdown H6 - There are 6 header sizes in Markdown, H1-H6.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
